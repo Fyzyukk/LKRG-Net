@@ -10,5 +10,5 @@ Once the paper is accepted, the code will be open sourced here
 
 -------------------------------------------------------------------
 
-![Image text](https://github.com/Fyzyukk/image/blob/main/double-backbone.tif)
+![Image text](https://github.com/Fyzyukk/image/blob/main/image/double-backbone.gif)
 
